@@ -1,2 +1,2 @@
 # Yandex-Practicum
-This folder contains projects done while I was taking Yandex.Practicum course. These use Python for Data Analysis - pandas and other libs. 
+Эти проекты были сделаны во время обучения в Яндекс.Практикуме - профессия "Аналитик данных". В проектах использован Python для анализа данных - pandas и другие библиотеки.
